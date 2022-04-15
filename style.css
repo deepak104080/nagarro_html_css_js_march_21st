@@ -1,0 +1,44 @@
+body {
+    background-color: #f1addb;
+}
+
+/* tag selector
+
+id selector
+
+class selector
+
+universal selector */
+
+
+#para1 {
+    color: blue;
+    color: #0000ff;
+    font-size: 22px;
+}
+
+.color-red {
+    color: red;
+    font-size: 20px;
+}
+
+.color-red {
+    color: blue;
+    font-size: 20px;
+}
+
+p {
+    font-size: 33px;
+}
+
+/* CSS - Specificity Rule */
+
+/* color code - rgb */
+
+
+
+/* if specificity is different - follow the rule (inline is having higest priority)
+else final css/last css */
+
+
+CSS Libraries - Bootstrap/Foundation/MaterialUi/SemanticUI

@@ -1,0 +1,26 @@
+HTML - Hyper Text Markup Language
+CSS - Cascading Style Sheets
+JS - JavaScript
+Bootstrap - CSS Library
+
+
+
+
+
+dynamic web content
+user activities - click, focus, select, 
+
+
+NodeJS - 2009
+
+JavaScript - Programing Language
+
+
+C - .cpp - assembly language - OS - RAM - GEC compiler
+Java - .class - .java - .jar/.exe - JDK/JRE - OS - RAM
+
+JS Code - JavaScript Engine - OS - RAM
+Browsers (v8, SurveyMonkey)
+
+NodeJS - v8 + libuv + node packages - (C++)
+

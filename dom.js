@@ -105,7 +105,22 @@ function click_handler() {
 //     how to pick values form radio and check boxes
 //      creation and appending of elements
 //      how to add atrributes to an element - img
+//      how to store temp data in localStorage
 // }
 
+// arr = [
+//     {
+//         name, email, website
+//     },
+//     {
+//         name, email, website
+//     },
+//     {
+//         name, email, website
+//     },
+//     {
+//         name, email, website
+//     }
+// ]
 
 // mdn - mozilla developer networks 
